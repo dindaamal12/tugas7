@@ -23,6 +23,7 @@ dan di bawah ini adalah outputnya :
 
 ![img](gambar/outputl2l1.PNG)
 
+
 # LAB 2 LATIHAN 2
 
 ## SOAL
