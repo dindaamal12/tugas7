@@ -2,7 +2,7 @@
 
 ## SOAL
 
-![img](gambar/tugas1.png)
+![img](gambar/tugas1.PNG)
 
 untuk mengerjakan bisa menggunakan syntax di bawah ini :
 
@@ -21,13 +21,13 @@ untuk mengerjakan bisa menggunakan syntax di bawah ini :
 
 dan di bawah ini adalah outputnya :
 
-![img](gambar/outputl2l1.png)
+![img](gambar/outputl2l1.PNG)
 
 # LAB 2 LATIHAN 2
 
 ## SOAL
 
-![img](gambar/tugas2.png)
+![img](gambar/tugas2.PNG)
 
 untuk mengerjakan bisa menggunakan syntax di bawah ini :
 
@@ -41,13 +41,13 @@ untuk mengerjakan bisa menggunakan syntax di bawah ini :
 
 dan di bawah ini adalah outputnya :
 
-![img](gambar/outputl2l2.png)
+![img](gambar/outputl2l2.PNG)
 
 # LAB 3 LATIHAN 1
 
 ## SOAL
 
-![img](gambar/tugas3.png)
+![img](gambar/tugas3.PNG)
 
 untuk mengerjakan bisa menggunakan syntax di bawah ini :
 
@@ -62,13 +62,13 @@ untuk mengerjakan bisa menggunakan syntax di bawah ini :
 
 dan di bawah ini adalah outputnya :
 
-![img](gambar/outputl3l1.png)
+![img](gambar/outputl3l1.PNG)
 
 # LAB 3 LATIHAN 2
 
 ## SOAL
 
-![img](gambar/tugas4.png)
+![img](gambar/tugas4.PNG)
 
 untuk mengerjakan bisa menggunakan syntax di bawah ini :
 
@@ -85,5 +85,5 @@ untuk mengerjakan bisa menggunakan syntax di bawah ini :
 
 dan di bawah ini adalah outputnya :
 
-! [img](gambar/outputl3l2)
+![img](gambar/outputl3l2.PNG)
 
